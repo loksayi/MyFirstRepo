@@ -1,2 +1,1 @@
-# MyFirstRepo
-Creating my first repository
+Im testing out my first repo here in github
